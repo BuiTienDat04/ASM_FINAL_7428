@@ -1,0 +1,51 @@
+﻿product_id,product_name,product_description,product_category,product_brand,product_model,product_price,product_cost,product_quantity,product_group_id,product_status
+1,Wireless Headphones,"High-quality, noise-cancelling wireless headphones with Bluetooth connectivity.",Electronics,AudioTech,WH-1000XM4,199.99,79.99,100,1,Active
+2,Fitness Tracker,"Sleek and durable fitness tracker with heart rate monitoring, step counting, and sleep tracking.",Health & Fitness,FitSmart,FS-250,79.99,39.99,75,2,Active
+3,Gaming Laptop,"Powerful gaming laptop with a 15.6-inch display, Intel Core i7 processor, and NVIDIA GeForce RTX 3060 graphics.",Computers,GamingPro,GP-X15,1299.99,899.99,50,3,Active
+4,Instant Pot,"Versatile pressure cooker that can also be used for slow cooking, sautÃ©ing, and more.",Kitchen Appliances,KitchenMaster,KM-IP8,99.99,59.99,80,4,Active
+5,Cordless Drill,Lightweight and powerful cordless drill with a lithium-ion battery and multiple torque settings.,Tools,PowerMax,PM-CD20,89.99,49.99,60,5,Active
+6,Smartwatch,"Stylish and feature-rich smartwatch with heart rate monitoring, fitness tracking, and mobile connectivity.",Electronics,TechSavvy,TS-SW45,199.99,99.99,90,1,Active
+7,DSLR Camera,"High-resolution DSLR camera with interchangeable lenses, advanced manual controls, and 4K video recording.",Photography,CameraExpert,CE-D5600,799.99,499.99,40,6,Active
+8,Patio Set,"Comfortable outdoor patio set including a sofa, two chairs, and a coffee table.",Home & Garden,OutdoorLiving,OL-PS6,599.99,349.99,30,7,Active
+9,Robotic Vacuum,"Intelligent robotic vacuum cleaner with advanced navigation, scheduled cleaning, and self-emptying capabilities.",Home Appliances,CleanMaster,CM-RV700,399.99,249.99,55,8,Active
+10,Electric Toothbrush,Rechargeable electric toothbrush with multiple brushing modes and a built-in timer.,Personal Care,OralCare,OC-ET350,59.99,29.99,80,9,Active
+11,Standing Desk,"Adjustable standing desk with motorized height control and a sturdy, ergonomic design.",Office Furniture,OfficeEssentials,OE-SD60,399.99,249.99,45,10,Active
+12,Air Purifier,"Powerful air purifier with HEPA filtration, multiple fan speeds, and a sleek, modern design.",Home Appliances,AirClear,AC-AP500,199.99,119.99,65,8,Active
+13,Outdoor Grill,Versatile and durable outdoor gas grill with multiple burners and a spacious cooking surface.,Home & Garden,GrillMaster,GM-OG450,499.99,299.99,35,7,Active
+14,Smart TV,"Large 4K smart TV with built-in streaming capabilities, voice control, and a sleek, frameless design.",Electronics,PixelPerfect,PP-TV65,799.99,499.99,25,1,Active
+15,Blender,"High-powered blender with multiple speed settings, a large pitcher, and a tamper for smoothie-making.",Kitchen Appliances,BlendMaster,BM-B1200,89.99,49.99,70,4,Active
+16,Cordless Vacuum,"Lightweight and powerful cordless vacuum with advanced filtration, multiple attachments, and long battery life.",Home Appliances,CleanSweep,CS-CV500,199.99,119.99,60,8,Active
+17,Massage Chair,"Luxurious massage chair with multiple massage programs, heat therapy, and a zero-gravity recline.",Home Furniture,RelaxPro,RP-MC800,899.99,599.99,20,11,Active
+18,Espresso Machine,"Premium espresso machine with a built-in grinder, multiple brew settings, and a stainless steel design.",Kitchen Appliances,CafeExpress,CE-EM500,499.99,299.99,40,4,Active
+19,Laptop Backpack,"Durable and stylish backpack designed for laptops, with multiple compartments and a padded sleeve.",Bags & Luggage,PackMaster,PM-LB450,79.99,39.99,75,12,Active
+20,Patio Heater,"Powerful and energy-efficient patio heater with a sleek, modern design and adjustable heat settings.",Home & Garden,OutdoorWarmth,OW-PH700,249.99,149.99,35,7,Active
+21,Gaming Mouse,"High-precision gaming mouse with programmable buttons, adjustable DPI, and RGB lighting.",Computers,GamingEdge,GE-M800,59.99,29.99,80,3,Active
+22,Smartpen,Digital pen that can capture handwritten notes and sync them to a mobile device or computer.,Electronics,InkSmart,IS-SP100,99.99,59.99,65,1,Active
+23,Bread Maker,"Versatile bread maker with various settings for different types of bread, dough, and more.",Kitchen Appliances,BreadMagic,BM-BM600,149.99,89.99,50,4,Active
+24,Outdoor Furniture Set,"Comfortable and weather-resistant outdoor furniture set, including a sofa, two chairs, and a coffee table.",Home & Garden,OutdoorLiving,OL-FS8,799.99,499.99,25,7,Active
+25,Electric Scooter,"Compact and lightweight electric scooter with a long-range battery, adjustable speed, and regenerative braking.",Transportation,MobilityPro,MP-ES450,599.99,349.99,30,13,Active
+26,Bluetooth Speaker,"Portable Bluetooth speaker with powerful sound, long battery life, and a rugged, splash-proof design.",Electronics,SoundBlast,SB-SP800,99.99,59.99,70,1,Active
+27,Sewing Machine,"Feature-rich sewing machine with multiple stitch options, automatic needle threader, and a user-friendly interface.",Home & Garden,SewingMaster,SM-SM700,299.99,179.99,40,7,Active
+28,Fitness Bike,"High-quality stationary fitness bike with adjustable resistance, built-in workout programs, and a large display.",Health & Fitness,FitnessPro,FP-FB800,599.99,349.99,35,2,Active
+29,Smart Thermostat,"Programmable smart thermostat with Wi-Fi connectivity, remote control, and energy-saving features.",Home Appliances,ClimateSmart,CS-ST500,149.99,89.99,55,8,Active
+30,Hair Dryer,"Powerful and lightweight hair dryer with multiple heat and speed settings, and a cool-shot button.",Personal Care,BeautyStyle,BS-HD600,49.99,24.99,80,9,Active
+31,Wireless Keyboard,"Sleek and slim wireless keyboard with a long-lasting battery, ergonomic design, and multimedia controls.",Computers,TypeMaster,TM-WK450,59.99,29.99,75,3,Active
+32,Outdoor Security Camera,"Weatherproof outdoor security camera with night vision, motion detection, and cloud storage options.",Home Appliances,SecurityPro,SP-OC800,149.99,89.99,60,8,Active
+33,Electric Kettle,"Elegant and efficient electric kettle with multiple temperature settings, auto shut-off, and a sleek stainless steel design.",Kitchen Appliances,KitchenEssentials,KE-EK600,59.99,29.99,70,4,Active
+34,Smart Speaker,"Voice-controlled smart speaker with built-in virtual assistant, music streaming, and smart home integration.",Electronics,VoiceAssist,VA-SP500,99.99,59.99,65,1,Active
+35,Portable Generator,"Powerful and portable gas-powered generator with multiple outlets, long runtime, and a durable design.",Tools,PowerPro,PP-PG3000,499.99,299.99,45,5,Active
+36,Cordless Lawn Mower,"Lightweight and maneuverable cordless lawn mower with a long-lasting battery, multiple cutting heights, and a spacious grass bag.",Garden & Outdoor,GreenThumb,GT-LM500,399.99,249.99,35,14,Active
+37,Electric Toothbrush,"Advanced electric toothbrush with multiple brushing modes, pressure sensor, and a UV sanitizing case.",Personal Care,OralCare,OC-ET550,89.99,49.99,75,9,Active
+38,Portable Speaker,"Compact and rugged portable speaker with Bluetooth connectivity, long battery life, and a waterproof design.",Electronics,SoundBlast,SB-PS600,79.99,39.99,70,1,Active
+39,Smart Lightbulb,"Energy-efficient smart lightbulb with Wi-Fi connectivity, customizable color and brightness, and voice control.",Home Appliances,LightSmart,LS-LB800,24.99,12.99,85,8,Active
+40,Fitness Tracker,"Advanced fitness tracker with heart rate monitoring, GPS tracking, sleep analysis, and smartphone connectivity.",Health & Fitness,FitSmart,FS-FT700,149.99,79.99,60,2,Active
+41,Wireless Charger,"Sleek and fast wireless charging pad for compatible smartphones, with a non-slip surface and LED indicator.",Electronics,ChargePro,CP-WC450,49.99,24.99,80,1,Active
+42,Electric Grill,"Versatile indoor/outdoor electric grill with variable temperature control, a large cooking surface, and a removable drip tray.",Kitchen Appliances,GrillMaster,GM-EG700,179.99,99.99,50,4,Active
+43,Smartwatch,"Premium smartwatch with advanced fitness tracking, mobile payments, voice control, and a premium stainless steel design.",Electronics,TechSavvy,TS-SW800,299.99,179.99,45,1,Active
+44,Robotic Lawn Mower,"Autonomous robotic lawn mower with advanced navigation, programmable schedules, and a durable, weatherproof design.",Garden & Outdoor,GreenThumb,GT-RM800,999.99,599.99,25,14,Active
+45,Portable Power Station,"Compact and powerful portable power station with multiple outlets, USB charging, and a long-lasting battery.",Tools,PowerPro,PP-PS1200,399.99,249.99,40,5,Active
+46,Massage Gun,"Percussion massage gun with multiple speed settings, interchangeable heads, and a rechargeable battery.",Health & Fitness,FitnessPro,FP-MG600,149.99,79.99,55,2,Active
+47,Smart Home Hub,"Central smart home hub with voice control, app integration, and the ability to control various smart home devices.",Home Appliances,HomeSmart,HS-HH800,99.99,59.99,65,8,Active
+48,Adjustable Standing Desk,"Electric height-adjustable standing desk with a sturdy, scratch-resistant surface and a simple control panel.",Office Furniture,OfficeEssentials,OE-SD80,499.99,299.99,35,10,Active
+49,Cordless Lawn Trimmer,Lightweight and maneuverable cordless lawn trimmer with a long-lasting battery and multiple trimming heads.,Garden & Outdoor,GreenThumb,GT-LT450,149.99,79.99,60,14,Active
+50,Portable Air Conditioner,"Compact and energy-efficient portable air conditioner with multiple cooling modes, dehumidification, and a remote control.",Home Appliances,CoolMaster,CM-AC700,349.99,219.99,30,8,Active

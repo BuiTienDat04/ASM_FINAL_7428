@@ -1,0 +1,201 @@
+﻿access_category_id,access_category_name,access_category_description,customer_id,access_category_page_views,access_category_unique_visitors,access_category_bounce_rate,access_category_average_time_on_page,access_category_conversion_rate,access_category_revenue_contribution,access_category_status
+1,Home,Access to the website's home page,1,5236,1560,0.15,120,0.08,1256.78,Active
+2,Products,Access to the product catalog pages,2,3948,1234,0.22,90,0.12,2187.35,Active
+3,About Us,Access to the company's about us page,3,1879,782,0.3,70,0.05,478.92,Active
+4,Contact,Access to the contact form and information,4,2416,990,0.18,60,0.07,695.42,Active
+5,Blog,Access to the company blog pages,5,3721,1123,0.25,100,0.09,885.65,Active
+6,Home,Access to the website's home page,6,4782,1439,0.18,110,0.1,1685.21,Active
+7,Products,Access to the product catalog pages,7,4210,1374,0.2,85,0.14,2650.12,Active
+8,About Us,Access to the company's about us page,8,1654,701,0.28,65,0.06,587.32,Active
+9,Contact,Access to the contact form and information,9,2122,875,0.22,55,0.08,845.98,Active
+10,Blog,Access to the company blog pages,10,3298,1035,0.27,95,0.11,1025.78,Active
+11,Home,Access to the website's home page,11,6354,1789,0.12,130,0.13,2354.89,Active
+12,Products,Access to the product catalog pages,12,5623,1624,0.15,92,0.16,3210.54,Active
+13,About Us,Access to the company's about us page,13,2104,823,0.22,72,0.07,712.45,Active
+14,Contact,Access to the contact form and information,14,2696,1015,0.18,60,0.09,1021.67,Active
+15,Blog,Access to the company blog pages,15,4587,1245,0.22,105,0.12,1245.32,Active
+16,Home,Access to the website's home page,16,5867,1679,0.14,125,0.11,2145.78,Active
+17,Products,Access to the product catalog pages,17,5045,1543,0.17,89,0.15,3011.23,Active
+18,About Us,Access to the company's about us page,18,1842,754,0.24,68,0.06,632.89,Active
+19,Contact,Access to the contact form and information,19,2377,932,0.2,58,0.08,956.12,Active
+20,Blog,Access to the company blog pages,20,4089,1156,0.24,100,0.1,1154.67,Active
+21,Home,Access to the website's home page,21,5325,1556,0.16,120,0.12,1956.34,Active
+22,Products,Access to the product catalog pages,22,4537,1433,0.19,86,0.13,2798.78,Active
+23,About Us,Access to the company's about us page,23,1664,688,0.26,65,0.07,578.23,Active
+24,Contact,Access to the contact form and information,24,2145,854,0.22,56,0.09,887.89,Active
+25,Blog,Access to the company blog pages,25,3698,1067,0.26,95,0.11,1065.43,Active
+26,Home,Access to the website's home page,26,5351,1578,0.15,122,0.09,1289.45,Active
+27,Products,Access to the product catalog pages,27,4028,1251,0.21,92,0.13,2345.67,Active
+28,About Us,Access to the company's about us page,28,1765,726,0.32,68,0.06,412.89,Active
+29,Contact,Access to the contact form and information,29,2283,912,0.19,57,0.08,632.78,Active
+30,Blog,Access to the company blog pages,30,3542,1041,0.27,98,0.1,987.65,Active
+31,Home,Access to the website's home page,31,4978,1486,0.17,115,0.11,1754.32,Active
+32,Products,Access to the product catalog pages,32,4394,1419,0.19,88,0.15,2765.89,Active
+33,About Us,Access to the company's about us page,33,1545,648,0.29,62,0.07,523.12,Active
+34,Contact,Access to the contact form and information,34,1994,807,0.23,53,0.09,785.67,Active
+35,Blog,Access to the company blog pages,35,3205,954,0.28,92,0.12,1089.45,Active
+36,Home,Access to the website's home page,36,6583,1845,0.11,135,0.14,2456.78,Active
+37,Products,Access to the product catalog pages,37,5845,1677,0.14,95,0.17,3354.32,Active
+38,About Us,Access to the company's about us page,38,1969,758,0.21,69,0.08,645.89,Active
+39,Contact,Access to the contact form and information,39,2624,935,0.17,58,0.1,1089.67,Active
+40,Blog,Access to the company blog pages,40,4756,1290,0.21,102,0.13,1301.23,Active
+41,Home,Access to the website's home page,41,6088,1737,0.13,130,0.12,2234.56,Active
+42,Products,Access to the product catalog pages,42,5249,1596,0.16,92,0.16,3145.89,Active
+43,About Us,Access to the company's about us page,43,1718,694,0.25,65,0.07,568.12,Active
+44,Contact,Access to the contact form and information,44,2223,858,0.21,55,0.09,890.67,Active
+45,Blog,Access to the company blog pages,45,4239,1196,0.23,97,0.11,1210.45,Active
+46,Home,Access to the website's home page,46,5532,1612,0.15,125,0.13,2045.67,Active
+47,Products,Access to the product catalog pages,47,4717,1481,0.18,89,0.14,2912.34,Active
+48,About Us,Access to the company's about us page,48,1555,633,0.27,62,0.08,515.89,Active
+49,Contact,Access to the contact form and information,49,2011,788,0.23,54,0.1,834.56,Active
+50,Blog,Access to the company blog pages,50,3813,1104,0.25,92,0.12,1112.23,Active
+51,Home,Access to the website's home page,51,5444,1604,0.14,124,0.1,1334.56,Active
+52,Products,Access to the product catalog pages,52,4114,1274,0.2,94,0.14,2435.67,Active
+53,About Us,Access to the company's about us page,53,1651,671,0.33,66,0.07,367.89,Active
+54,Contact,Access to the contact form and information,54,2159,842,0.2,55,0.09,578.12,Active
+55,Blog,Access to the company blog pages,55,3613,1069,0.26,100,0.11,1034.56,Active
+56,Home,Access to the website's home page,56,5071,1521,0.16,120,0.12,1821.23,Active
+57,Products,Access to the product catalog pages,57,4477,1457,0.18,91,0.16,2879.45,Active
+58,About Us,Access to the company's about us page,58,1444,599,0.3,59,0.08,465.89,Active
+59,Contact,Access to the contact form and information,59,1879,744,0.24,51,0.1,723.12,Active
+60,Blog,Access to the company blog pages,60,3290,929,0.29,89,0.13,1145.67,Active
+61,Home,Access to the website's home page,61,6756,1899,0.1,140,0.15,2556.78,Active
+62,Products,Access to the product catalog pages,62,5977,1730,0.13,98,0.18,3489.45,Active
+63,About Us,Access to the company's about us page,63,1841,698,0.2,67,0.09,578.12,Active
+64,Contact,Access to the contact form and information,64,2544,860,0.16,56,0.11,1145.67,Active
+65,Blog,Access to the company blog pages,65,4889,1332,0.2,99,0.14,1356.78,Active
+66,Home,Access to the website's home page,66,6230,1787,0.12,135,0.13,2323.45,Active
+67,Products,Access to the product catalog pages,67,5369,1647,0.15,95,0.17,3278.12,Active
+68,About Us,Access to the company's about us page,68,1606,641,0.26,62,0.08,509.45,Active
+69,Contact,Access to the contact form and information,69,2109,792,0.22,53,0.1,834.56,Active
+70,Blog,Access to the company blog pages,70,4349,1233,0.22,94,0.12,1265.67,Active
+71,Home,Access to the website's home page,71,5672,1658,0.14,130,0.14,2132.34,Active
+72,Products,Access to the product catalog pages,72,4832,1527,0.17,92,0.15,3034.56,Active
+73,About Us,Access to the company's about us page,73,1452,585,0.28,59,0.09,457.89,Active
+74,Contact,Access to the contact form and information,74,1899,728,0.24,52,0.11,778.12,Active
+75,Blog,Access to the company blog pages,75,3924,1142,0.24,89,0.13,1167.45,Active
+76,Home,Access to the website's home page,76,5526,1628,0.13,126,0.11,1378.23,Active
+77,Products,Access to the product catalog pages,77,4191,1298,0.19,96,0.15,2524.56,Active
+78,About Us,Access to the company's about us page,78,1541,622,0.34,64,0.08,313.89,Active
+79,Contact,Access to the contact form and information,79,2042,778,0.21,53,0.1,523.45,Active
+80,Blog,Access to the company blog pages,80,3682,1095,0.25,102,0.12,1081.23,Active
+81,Home,Access to the website's home page,81,5161,1556,0.15,122,0.13,1886.78,Active
+82,Products,Access to the product catalog pages,82,4555,1494,0.17,94,0.17,2990.12,Active
+83,About Us,Access to the company's about us page,83,1349,555,0.31,56,0.09,412.34,Active
+84,Contact,Access to the contact form and information,84,1767,689,0.25,49,0.11,667.89,Active
+85,Blog,Access to the company blog pages,85,3376,904,0.3,86,0.14,1201.23,Active
+86,Home,Access to the website's home page,86,6906,1953,0.09,145,0.16,2656.78,Active
+87,Products,Access to the product catalog pages,87,6103,1782,0.12,101,0.19,3623.45,Active
+88,About Us,Access to the company's about us page,88,1720,645,0.19,65,0.1,512.34,Active
+89,Contact,Access to the contact form and information,89,2468,792,0.15,54,0.12,1201.23,Active
+90,Blog,Access to the company blog pages,90,5014,1372,0.19,96,0.15,1412.67,Active
+91,Home,Access to the website's home page,91,6360,1834,0.11,140,0.14,2412.34,Active
+92,Products,Access to the product catalog pages,92,5482,1695,0.14,98,0.18,3409.45,Active
+93,About Us,Access to the company's about us page,93,1500,593,0.27,59,0.09,455.67,Active
+94,Contact,Access to the contact form and information,94,1998,732,0.23,51,0.11,778.12,Active
+95,Blog,Access to the company blog pages,95,4455,1271,0.21,91,0.13,1320.45,Active
+96,Home,Access to the website's home page,96,5804,1703,0.13,135,0.15,2221.23,Active
+97,Products,Access to the product catalog pages,97,4941,1569,0.16,95,0.16,3145.67,Active
+98,About Us,Access to the company's about us page,98,1357,542,0.29,56,0.1,404.45,Active
+99,Contact,Access to the contact form and information,99,1791,673,0.25,50,0.12,723.12,Active
+100,Blog,Access to the company blog pages,100,4025,1180,0.23,86,0.14,1221.23,Active
+101,Home,Access to the website's home page,101,6101,1804,0.15,148,0.16,2335.89,Active
+102,Products,Access to the product catalog pages,102,5089,1667,0.18,104,0.17,3291.56,Active
+103,About Us,Access to the company's about us page,103,1449,587,0.31,61,0.11,423.08,Active
+104,Contact,Access to the contact form and information,104,1874,719,0.27,55,0.13,756.75,Active
+105,Blog,Access to the company blog pages,105,4224,1256,0.25,95,0.15,1278.65,Active
+106,Home,Access to the website's home page,106,6417,1914,0.17,162,0.17,2458.11,Active
+107,Products,Access to the product catalog pages,107,5345,1766,0.19,113,0.18,3444.26,Active
+108,About Us,Access to the company's about us page,108,1549,632,0.33,66,0.12,441.38,Active
+109,Contact,Access to the contact form and information,109,1967,767,0.29,60,0.14,791.86,Active
+110,Blog,Access to the company blog pages,110,4432,1336,0.27,104,0.16,1337.32,Active
+111,Home,Access to the website's home page,111,6744,2031,0.19,177,0.18,2586.75,Active
+112,Products,Access to the product catalog pages,112,5612,1874,0.21,123,0.19,3602.15,Active
+113,About Us,Access to the company's about us page,113,1656,679,0.35,72,0.13,460.53,Active
+114,Contact,Access to the contact form and information,114,2068,818,0.31,65,0.15,828.73,Active
+115,Blog,Access to the company blog pages,115,4650,1418,0.29,113,0.17,1398.44,Active
+116,Home,Access to the website's home page,116,7086,2151,0.21,193,0.19,2721.14,Active
+117,Products,Access to the product catalog pages,117,5888,1987,0.23,134,0.2,3765.64,Active
+118,About Us,Access to the company's about us page,118,1766,727,0.37,78,0.14,480.43,Active
+119,Contact,Access to the contact form and information,119,2175,871,0.33,71,0.16,866.37,Active
+120,Blog,Access to the company blog pages,120,4877,1504,0.31,124,0.18,1461.11,Active
+121,Home,Access to the website's home page,121,7445,2276,0.23,210,0.2,2861.27,Active
+122,Products,Access to the product catalog pages,122,6174,2105,0.25,146,0.21,3934.33,Active
+123,About Us,Access to the company's about us page,123,1882,778,0.39,85,0.15,500.83,Active
+124,Contact,Access to the contact form and information,124,2290,927,0.35,77,0.17,905.79,Active
+125,Blog,Access to the company blog pages,125,5114,1594,0.33,135,0.19,1525.62,Active
+126,Home,Access to the website's home page,126,7811,2407,0.25,228,0.21,3006.74,Active
+127,Products,Access to the product catalog pages,127,6472,2227,0.27,159,0.22,4107.97,Active
+128,About Us,Access to the company's about us page,128,2001,834,0.41,92,0.16,522.07,Active
+129,Contact,Access to the contact form and information,129,2411,987,0.37,84,0.18,946.95,Active
+130,Blog,Access to the company blog pages,130,5362,1688,0.35,147,0.2,1592.07,Active
+131,Home,Access to the website's home page,131,8193,2543,0.27,247,0.22,3157.08,Active
+132,Products,Access to the product catalog pages,132,6778,2354,0.29,173,0.23,4286.49,Active
+133,About Us,Access to the company's about us page,133,2124,893,0.43,100,0.17,543.97,Active
+134,Contact,Access to the contact form and information,134,2537,1049,0.39,91,0.19,989.88,Active
+135,Blog,Access to the company blog pages,135,5620,1786,0.37,160,0.21,1660.18,Active
+136,Home,Access to the website's home page,136,8591,2686,0.29,269,0.23,3312.87,Active
+137,Products,Access to the product catalog pages,137,7093,2487,0.31,188,0.24,4469.19,Active
+138,About Us,Access to the company's about us page,138,2250,955,0.45,109,0.18,567.52,Active
+139,Contact,Access to the contact form and information,139,2668,1113,0.41,99,0.2,1034.59,Active
+140,Blog,Access to the company blog pages,140,5890,1889,0.39,174,0.22,1730.04,Active
+141,Home,Access to the website's home page,141,9005,2835,0.31,293,0.24,3473.47,Active
+142,Products,Access to the product catalog pages,142,7418,2624,0.33,204,0.25,4656.86,Active
+143,About Us,Access to the company's about us page,143,2380,1020,0.47,118,0.19,592.83,Active
+144,Contact,Access to the contact form and information,144,2804,1180,0.43,107,0.21,1080.04,Active
+145,Blog,Access to the company blog pages,145,6170,1996,0.41,189,0.23,1802,Active
+146,Home,Access to the website's home page,146,9435,2989,0.33,319,0.25,3639,Active
+147,Products,Access to the product catalog pages,147,7752,2765,0.35,221,0.26,4848.5,Active
+148,About Us,Access to the company's about us page,148,2514,1089,0.49,128,0.2,618.89,Active
+149,Contact,Access to the contact form and information,149,2944,1249,0.45,116,0.22,1126.34,Active
+150,Blog,Access to the company blog pages,150,6460,2108,0.43,205,0.24,1875.72,Active
+151,Home,Access to the website's home page,151,9879,3148,0.35,347,0.26,3809.43,Active
+152,Products,Access to the product catalog pages,152,8096,2911,0.37,240,0.27,5044.21,Active
+153,About Us,Access to the company's about us page,153,2653,1161,0.51,139,0.21,645.72,Active
+154,Contact,Access to the contact form and information,154,3088,1321,0.47,126,0.23,1173.5,Active
+155,Blog,Access to the company blog pages,155,6762,2224,0.45,223,0.25,1951.29,Active
+156,Home,Access to the website's home page,156,10337,3313,0.37,377,0.27,3984.71,Active
+157,Products,Access to the product catalog pages,157,8451,3062,0.39,261,0.28,5244.28,Active
+158,About Us,Access to the company's about us page,158,2795,1237,0.53,151,0.22,673.29,Active
+159,Contact,Access to the contact form and information,159,3238,1395,0.49,137,0.24,1221.4,Active
+160,Blog,Access to the company blog pages,160,7075,2344,0.47,242,0.26,2028.71,Active
+161,Home,Access to the website's home page,161,10804,3483,0.39,409,0.28,4164.83,Active
+162,Products,Access to the product catalog pages,162,8816,3218,0.41,283,0.29,5448.31,Active
+163,About Us,Access to the company's about us page,163,2942,1315,0.55,164,0.23,701.59,Active
+164,Contact,Access to the contact form and information,164,3390,1472,0.51,148,0.25,1269.95,Active
+165,Blog,Access to the company blog pages,165,7398,2466,0.49,263,0.27,2107.16,Active
+166,Home,Access to the website's home page,166,11281,3658,0.41,441,0.29,4349.65,Active
+167,Products,Access to the product catalog pages,167,9191,3380,0.43,307,0.3,5655.92,Active
+168,About Us,Access to the company's about us page,168,3092,1396,0.57,178,0.24,730.66,Active
+169,Contact,Access to the contact form and information,169,3545,1551,0.53,160,0.26,1319.27,Active
+170,Blog,Access to the company blog pages,170,7732,2591,0.51,286,0.28,2187.32,Active
+171,Home,Access to the website's home page,171,11767,3839,0.43,478,0.3,4539.11,Active
+172,Products,Access to the product catalog pages,172,9575,3546,0.45,333,0.31,5866.9,Active
+173,About Us,Access to the company's about us page,173,3244,1480,0.59,193,0.25,760.45,Active
+174,Contact,Access to the contact form and information,174,3705,1632,0.55,173,0.27,1369.35,Active
+175,Blog,Access to the company blog pages,175,8076,2721,0.53,311,0.29,2268.95,Active
+176,Home,Access to the website's home page,176,12262,4024,0.45,517,0.32,4733.53,Active
+177,Products,Access to the product catalog pages,177,9969,3716,0.47,361,0.32,6081.42,Active
+178,About Us,Access to the company's about us page,178,3401,1568,0.61,209,0.26,790.95,Active
+179,Contact,Access to the contact form and information,179,3869,1717,0.57,188,0.28,1420.25,Active
+180,Blog,Access to the company blog pages,180,8430,2854,0.55,338,0.3,2351.89,Active
+181,Home,Access to the website's home page,181,12764,4215,0.47,558,0.33,4932.79,Active
+182,Products,Access to the product catalog pages,182,10373,3890,0.49,391,0.33,6299.57,Active
+183,About Us,Access to the company's about us page,183,3561,1659,0.63,226,0.27,822.27,Active
+184,Contact,Access to the contact form and information,184,4033,1806,0.59,205,0.29,1472,Active
+185,Blog,Access to the company blog pages,185,8793,2991,0.57,367,0.31,2436.5,Active
+186,Home,Access to the website's home page,186,13277,4412,0.49,601,0.34,5136.78,Active
+187,Products,Access to the product catalog pages,187,10785,4069,0.51,423,0.34,6520.57,Active
+188,About Us,Access to the company's about us page,188,3724,1751,0.65,243,0.28,854.31,Active
+189,Contact,Access to the contact form and information,189,4201,1899,0.61,222,0.3,1524.59,Active
+190,Blog,Access to the company blog pages,190,9166,3133,0.59,398,0.32,2522.72,Active
+191,Home,Access to the website's home page,191,13798,4614,0.51,645,0.35,5346.21,Active
+192,Products,Access to the product catalog pages,192,11206,4253,0.53,457,0.35,6744.89,Active
+193,About Us,Access to the company's about us page,193,3890,1846,0.67,261,0.29,887.18,Active
+194,Contact,Access to the contact form and information,194,4371,1994,0.63,240,0.31,1578.83,Active
+195,Blog,Access to the company blog pages,195,9539,3279,0.61,430,0.33,2609.9,Active
+196,Home,Access to the website's home page,196,14327,4821,0.53,692,0.36,5559.46,Active
+197,Products,Access to the product catalog pages,197,11637,4442,0.55,495,0.36,6973.06,Active
+198,About Us,Access to the company's about us page,198,4058,1943,0.69,279,0.3,920.77,Active
+199,Contact,Access to the contact form and information,199,4543,2091,0.65,259,0.32,1634.02,Active
+200,Blog,Access to the company blog pages,200,9921,3429,0.63,464,0.34,2698.47,Active

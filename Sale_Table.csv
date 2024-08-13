@@ -1,0 +1,201 @@
+﻿sale_id,customer_id,product_id,sale_date,sale_quantity,sale_amount,sale_discount,sale_tax,sale_payment_method,sale_status,sale_notes
+1,1,1,1/1/2022,2,100.5,0,8.04,Credit Card,Completed,"Large order, good customer"
+2,2,2,2/15/2022,1,75.25,5,5.42,Cash,Completed,Repeat customer
+3,3,3,4/10/2022,3,150.75,0,12.06,Debit Card,Completed,Bulk purchase
+4,4,4,3/5/2022,1,85,0,6.8,Credit Card,Completed,New customer
+5,5,5,6/20/2022,2,120,10,8.4,Cash,Completed,Larger order
+6,6,6,9/12/2022,1,65.5,0,5.24,Debit Card,Completed,Repeat purchase
+7,7,7,2/18/2022,1,90.75,0,7.26,Credit Card,Completed,Good sale
+8,8,8,5/1/2022,2,110.25,0,8.82,Cash,Completed,Bulk order
+9,9,9,8/27/2022,1,80,5,5.76,Debit Card,Completed,Loyal customer
+10,10,10,1/22/2022,1,95.5,0,7.64,Credit Card,Completed,New customer
+11,11,11,4/8/2022,2,125.75,0,10.06,Cash,Completed,Large order
+12,12,12,7/14/2022,1,70,10,4.9,Debit Card,Completed,Repeat purchase
+13,13,13,3/11/2022,1,105.25,0,8.42,Credit Card,Completed,Good sale
+14,14,14,6/5/2022,2,115.5,5,9.24,Cash,Completed,Larger order
+15,15,15,10/2/2022,1,85.75,0,6.86,Debit Card,Completed,Loyal customer
+16,16,16,2/23/2022,1,90,0,7.2,Credit Card,Completed,New customer
+17,17,17,5/19/2022,2,130.25,0,10.42,Cash,Completed,Large order
+18,18,18,9/8/2022,1,75.5,5,5.44,Debit Card,Completed,Repeat purchase
+19,19,19,1/28/2022,1,100.75,0,8.06,Credit Card,Completed,Good sale
+20,20,20,4/13/2022,2,120,0,9.6,Cash,Completed,Larger order
+21,21,21,7/29/2022,1,85.25,10,5.97,Debit Card,Completed,Loyal customer
+22,22,22,3/2/2022,1,95.5,0,7.64,Credit Card,Completed,New customer
+23,23,23,6/25/2022,2,110.75,0,8.86,Cash,Completed,Large order
+24,24,24,10/16/2022,1,80,5,5.76,Debit Card,Completed,Repeat purchase
+25,25,25,2/9/2022,1,85,0,6.8,Credit Card,Completed,Good sale
+26,26,26,5/24/2022,2,125.25,0,10.02,Cash,Completed,Larger order
+27,27,27,8/18/2022,1,95.75,0,7.66,Debit Card,Completed,Loyal customer
+28,28,28,1/17/2022,1,100.5,0,8.04,Credit Card,Completed,New customer
+29,29,29,4/3/2022,2,115.75,0,9.26,Cash,Completed,Large order
+30,30,30,7/21/2022,1,90,10,6.3,Debit Card,Completed,Repeat purchase
+31,31,31,3/14/2022,1,105.25,0,8.42,Credit Card,Completed,Good sale
+32,32,32,6/10/2022,2,120.5,5,9.64,Cash,Completed,Larger order
+33,33,33,9/23/2022,1,80.75,0,6.46,Debit Card,Completed,Loyal customer
+34,34,34,2/4/2022,1,90,0,7.2,Credit Card,Completed,New customer
+35,35,35,5/29/2022,2,135.25,0,10.82,Cash,Completed,Large order
+36,36,36,8/13/2022,1,75.5,5,5.44,Debit Card,Completed,Repeat purchase
+37,37,37,1/24/2022,1,100.75,0,8.06,Credit Card,Completed,Good sale
+38,38,38,4/18/2022,2,115,0,9.2,Cash,Completed,Larger order
+39,39,39,7/24/2022,1,90.25,10,6.32,Debit Card,Completed,Loyal customer
+40,40,40,3/7/2022,1,95.5,0,7.64,Credit Card,Completed,New customer
+41,41,41,6/20/2022,2,125.75,0,10.06,Cash,Completed,Large order
+42,42,42,10/11/2022,1,85,5,6.12,Debit Card,Completed,Repeat purchase
+43,43,43,2/14/2022,1,85,0,6.8,Credit Card,Completed,Good sale
+44,44,44,5/9/2022,2,130.25,0,10.42,Cash,Completed,Larger order
+45,45,45,8/23/2022,1,90.75,0,7.26,Debit Card,Completed,Loyal customer
+46,46,46,1/13/2022,1,100.5,0,8.04,Credit Card,Completed,New customer
+47,47,47,4/8/2022,2,110.75,0,8.86,Cash,Completed,Large order
+48,48,48,7/16/2022,1,95,5,7.15,Debit Card,Completed,Repeat purchase
+49,49,49,3/19/2022,1,105.25,0,8.42,Credit Card,Completed,Good sale
+50,50,50,6/5/2022,2,120.5,5,9.64,Cash,Completed,Larger order
+51,51,,9/18/2022,1,85.75,0,6.86,Debit Card,Completed,Loyal customer
+52,52,,2/1/2022,1,90,0,7.2,Credit Card,Completed,New customer
+53,53,,5/24/2022,2,140.25,0,11.22,Cash,Completed,Large order
+54,54,,8/8/2022,1,80.5,5,5.78,Debit Card,Completed,Repeat purchase
+55,55,,1/20/2022,1,100.75,0,8.06,Credit Card,Completed,Good sale
+56,56,,4/13/2022,2,110,0,8.8,Cash,Completed,Larger order
+57,57,,7/29/2022,1,95.25,10,6.67,Debit Card,Completed,Loyal customer
+58,58,,3/2/2022,1,95.5,0,7.64,Credit Card,Completed,New customer
+59,59,,6/25/2022,2,130.75,0,10.46,Cash,Completed,Large order
+60,60,,10/16/2022,1,80,5,5.76,Debit Card,Completed,Repeat purchase
+61,61,,11/1/2022,1,85,0,6.8,Credit Card,Completed,New customer
+62,62,,1/15/2023,2,125.5,0,10.04,Cash,Completed,Larger order
+63,63,,12/7/2022,1,90,0,7.2,Debit Card,Completed,Repeat purchase
+64,64,,3/20/2023,2,160,10,11.2,Credit Card,Completed,Loyal customer
+65,65,,2/14/2023,1,80.75,0,6.46,Cash,Completed,New customer
+66,66,,5/5/2023,2,120,0,9.6,Debit Card,Completed,Larger order
+67,67,,4/12/2023,1,100.25,5,7.62,Credit Card,Completed,Repeat purchase
+68,68,,7/1/2023,1,90.5,0,7.24,Cash,Completed,New customer
+69,69,,6/18/2023,2,135,0,10.8,Debit Card,Completed,Larger order
+70,70,,9/3/2023,1,95.75,0,7.66,Credit Card,Completed,Repeat custome
+71,71,,8/10/2023,2,130,0,10.4,Cash,Completed,Larger order
+72,72,,11/4/2023,1,85.5,0,6.84,Debit Card,Completed,New customer
+73,73,,7/20/2023,1,110.25,5,8.32,Credit Card,Completed,Repeat purchase
+74,74,,10/15/2023,2,180,0,14.4,Cash,Completed,Loyal customer
+75,75,,9/1/2023,2,135,0,10.8,Debit Card,Completed,Larger order
+76,76,,1/12/2024,1,90,0,7.2,Credit Card,Completed,New customer
+77,77,,3/5/2024,1,100.25,5,7.62,Cash,Completed,Repeat purchase
+78,78,,6/22/2024,2,140,0,11.2,Debit Card,Completed,Larger order
+79,79,,5/8/2024,1,85.5,0,6.84,Credit Card,Completed,New customer
+80,80,,8/1/2024,1,110.25,5,8.32,Cash,Completed,Repeat purchase
+81,81,,7/10/2024,1,90,0,7.2,Debit Card,Completed,New customer
+82,82,,10/22/2024,2,145,0,11.6,Credit Card,Completed,Larger order
+83,83,,9/5/2024,1,85.5,0,6.84,Cash,Completed,Repeat purchase
+84,84,,1/18/2025,2,160,10,11.2,Debit Card,Completed,Loyal customer
+85,85,,12/1/2024,1,95,0,7.6,Credit Card,Completed,New customer
+86,86,,3/15/2025,2,130,0,10.4,Cash,Completed,Larger order
+87,87,,2/10/2025,1,110.25,5,8.32,Debit Card,Completed,Repeat purchase
+88,88,,5/27/2025,1,90,0,7.2,Credit Card,Completed,New customer
+89,89,,4/20/2025,2,145,0,11.6,Cash,Completed,Larger order
+90,90,,7/12/2025,1,95,0,7.6,Debit Card,Completed,Repeat customer
+91,91,,6/5/2025,1,160,10,11.2,Credit Card,Completed,New customer
+92,92,,9/18/2025,1,90,0,7.2,Cash,Completed,Larger order
+93,93,,8/10/2025,2,130,0,10.4,Debit Card,Completed,Repeat purchase
+94,94,,11/25/2025,1,95,0,7.6,Credit Card,Completed,Loyal customer
+95,95,,10/2/2025,2,145,0,11.6,Cash,Completed,New customer
+96,96,,1/15/2026,1,160,10,11.2,Debit Card,Completed,Larger order
+97,97,,3/8/2026,1,95,0,7.6,Credit Card,Completed,Repeat purchase
+98,98,,6/22/2026,1,90,0,7.2,Cash,Completed,New customer
+99,99,,5/1/2026,2,130,0,10.4,Debit Card,Completed,Loyal customer
+100,100,,8/14/2026,2,145,0,11.6,Credit Card,Completed,Larger order
+101,101,,7/10/2026,1,160,10,11.2,Cash,Completed,Repeat purchase
+102,102,,10/25/2026,1,95,0,7.6,Debit Card,Completed,New customer
+103,103,,9/2/2026,1,90,0,7.2,Credit Card,Completed,Loyal customer
+104,104,,1/18/2027,2,130,0,10.4,Cash,Completed,Larger order
+105,105,,12/5/2026,2,145,0,11.6,Debit Card,Completed,Repeat purchase
+106,106,,3/28/2027,1,160,10,11.2,Credit Card,Completed,New customer
+107,107,,2/10/2027,1,95,0,7.6,Cash,Completed,Loyal customer
+108,108,,5/22/2027,1,90,0,7.2,Debit Card,Completed,Larger order
+109,109,,4/5/2027,2,130,0,10.4,Credit Card,Completed,Repeat purchase
+110,110,,7/18/2027,2,145,0,11.6,Cash,Completed,New customer
+111,111,,6/10/2027,1,160,10,11.2,Debit Card,Completed,Loyal customer
+112,112,,9/25/2027,1,95,0,7.6,Credit Card,Completed,Larger order
+113,113,,8/2/2027,1,90,0,7.2,Cash,Completed,Repeat purchase
+114,114,,11/15/2027,2,130,0,10.4,Debit Card,Completed,New customer
+115,115,,10/5/2027,2,145,0,11.6,Credit Card,Completed,Loyal customer
+116,116,,1/28/2028,1,160,10,11.2,Cash,Completed,Larger order
+117,117,,3/10/2028,1,95,0,7.6,Debit Card,Completed,Repeat purchase
+118,118,,6/22/2028,1,90,0,7.2,Credit Card,Completed,New customer
+119,119,,5/1/2028,2,130,0,10.4,Cash,Completed,Loyal customer
+120,120,,8/14/2028,2,145,0,11.6,Debit Card,Completed,Larger order
+121,121,,7/10/2028,1,160,10,11.2,Credit Card,Completed,Repeat purchase
+122,122,,10/25/2028,1,95,0,7.6,Cash,Completed,New customer
+123,123,,9/2/2028,1,90,0,7.2,Debit Card,Completed,Loyal customer
+124,124,,1/18/2029,2,130,0,10.4,Credit Card,Completed,Larger order
+125,125,,12/5/2028,2,145,0,11.6,Cash,Completed,Repeat purchase
+126,126,,3/28/2029,1,160,10,11.2,Debit Card,Completed,New customer
+127,127,,2/10/2029,1,95,0,7.6,Credit Card,Completed,Loyal customer
+128,128,,5/22/2029,1,90,0,7.2,Cash,Completed,Larger order
+129,129,,4/5/2029,2,130,0,10.4,Debit Card,Completed,Repeat purchase
+130,130,,7/18/2029,2,145,0,11.6,Credit Card,Completed,New customer
+131,131,,6/10/2029,1,160,10,11.2,Cash,Completed,Loyal customer
+132,132,,9/25/2029,1,95,0,7.6,Debit Card,Completed,Larger order
+133,133,,8/2/2029,1,90,0,7.2,Credit Card,Completed,Repeat purchase
+134,134,,11/15/2029,2,130,0,10.4,Cash,Completed,New customer
+135,135,,10/5/2029,2,145,0,11.6,Debit Card,Completed,Loyal customer
+136,136,,1/28/2030,1,160,10,11.2,Credit Card,Completed,Larger order
+137,137,,3/10/2030,1,95,0,7.6,Cash,Completed,Repeat purchase
+138,138,,6/22/2030,1,90,0,7.2,Debit Card,Completed,New customer
+139,139,,5/1/2030,2,130,0,10.4,Credit Card,Completed,Loyal customer
+140,140,,8/14/2030,2,145,0,11.6,Cash,Completed,Larger order
+141,141,,7/10/2030,1,160,10,11.2,Debit Card,Completed,Repeat purchase
+142,142,,10/25/2030,1,95,0,7.6,Credit Card,Completed,New customer
+143,143,,9/2/2030,1,90,0,7.2,Cash,Completed,Loyal customer
+144,144,,1/18/2031,2,130,0,10.4,Debit Card,Completed,Larger order
+145,145,,12/5/2030,2,145,0,11.6,Credit Card,Completed,Repeat purchase
+146,146,,3/28/2031,1,160,10,11.2,Cash,Completed,New customer
+147,147,,2/10/2031,1,95,0,7.6,Debit Card,Completed,Loyal customer
+148,148,,5/22/2031,1,90,0,7.2,Credit Card,Completed,Larger order
+149,149,,4/5/2031,2,130,0,10.4,Cash,Completed,Repeat purchase
+150,150,,7/18/2031,2,145,0,11.6,Debit Card,Completed,New customer
+151,151,,6/10/2031,1,160,10,11.2,Credit Card,Completed,Repeat purchase
+152,152,,9/25/2031,1,95,0,7.6,Cash,Completed,New customer
+153,153,,8/2/2031,1,90,0,7.2,Debit Card,Completed,Loyal customer
+154,154,,11/15/2031,2,130,0,10.4,Credit Card,Completed,Larger order
+155,155,,10/5/2031,2,145,0,11.6,Cash,Completed,Repeat purchase
+156,156,,1/28/2032,1,160,10,11.2,Debit Card,Completed,New customer
+157,157,,3/10/2032,1,95,0,7.6,Credit Card,Completed,Loyal customer
+158,158,,6/22/2032,1,90,0,7.2,Cash,Completed,Larger order
+159,159,,5/1/2032,2,130,0,10.4,Debit Card,Completed,Repeat purchase
+160,160,,8/14/2032,2,145,0,11.6,Credit Card,Completed,New customer
+161,161,,7/10/2032,1,160,10,11.2,Cash,Completed,Loyal customer
+162,162,,10/25/2032,1,95,0,7.6,Debit Card,Completed,Larger order
+163,163,,9/2/2032,1,90,0,7.2,Credit Card,Completed,Repeat purchase
+164,164,,1/18/2033,2,130,0,10.4,Cash,Completed,New customer
+165,165,,12/5/2032,2,145,0,11.6,Debit Card,Completed,Loyal customer
+166,166,,3/28/2033,1,160,10,11.2,Credit Card,Completed,Larger order
+167,167,,2/10/2033,1,95,0,7.6,Cash,Completed,Repeat purchase
+168,168,,5/22/2033,1,90,0,7.2,Debit Card,Completed,New customer
+169,169,,4/5/2033,2,130,0,10.4,Credit Card,Completed,Loyal customer
+170,170,,7/18/2033,2,145,0,11.6,Cash,Completed,Larger order
+171,171,,6/10/2033,1,160,10,11.2,Debit Card,Completed,Repeat purchase
+172,172,,9/25/2033,1,95,0,7.6,Credit Card,Completed,New customer
+173,173,,8/2/2033,1,90,0,7.2,Cash,Completed,Loyal customer
+174,174,,11/15/2033,2,130,0,10.4,Debit Card,Completed,Larger order
+175,175,,10/5/2033,2,145,0,11.6,Credit Card,Completed,Repeat purchase
+176,176,,1/28/2034,1,160,10,11.2,Cash,Completed,New customer
+177,177,,3/10/2034,1,95,0,7.6,Debit Card,Completed,Loyal customer
+178,178,,6/22/2034,1,90,0,7.2,Credit Card,Completed,Larger order
+179,179,,5/1/2034,2,130,0,10.4,Cash,Completed,Repeat purchase
+180,180,,8/14/2034,2,145,0,11.6,Debit Card,Completed,New customer
+181,181,,7/10/2034,1,160,10,11.2,Credit Card,Completed,Loyal customer
+182,182,,10/25/2034,1,95,0,7.6,Cash,Completed,Larger order
+183,183,,9/2/2034,1,90,0,7.2,Debit Card,Completed,Repeat purchase
+184,184,,1/18/2035,2,130,0,10.4,Credit Card,Completed,New customer
+185,185,,12/5/2034,2,145,0,11.6,Cash,Completed,Loyal customer
+186,186,,3/28/2035,1,160,10,11.2,Debit Card,Completed,Larger order
+187,187,,2/10/2035,1,95,0,7.6,Credit Card,Completed,Repeat purchase
+188,188,,5/22/2035,1,90,0,7.2,Cash,Completed,New customer
+189,189,,4/5/2035,2,130,0,10.4,Debit Card,Completed,Loyal customer
+190,190,,7/18/2035,2,145,0,11.6,Credit Card,Completed,Larger order
+191,191,,6/10/2035,1,160,10,11.2,Cash,Completed,Repeat purchase
+192,192,,9/25/2035,1,95,0,7.6,Debit Card,Completed,New customer
+193,193,,8/2/2035,1,90,0,7.2,Credit Card,Completed,Loyal customer
+194,194,,11/15/2035,2,130,0,10.4,Cash,Completed,Larger order
+195,195,,10/5/2035,2,145,0,11.6,Debit Card,Completed,Repeat purchase
+196,196,,1/28/2036,1,160,10,11.2,Credit Card,Completed,New customer
+197,197,,3/10/2036,1,95,0,7.6,Cash,Completed,Loyal customer
+198,198,,6/22/2036,1,90,0,7.2,Debit Card,Completed,Larger order
+199,199,,5/1/2036,2,130,0,10.4,Credit Card,Completed,Repeat purchase
+200,200,,8/14/2036,2,145,0,11.6,Cash,Completed,New customer
